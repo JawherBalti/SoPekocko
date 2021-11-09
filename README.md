@@ -14,7 +14,7 @@ Démarrer `npm start` pour démarrer le serveur.
 
 ## Technologies
 
-Angular
-Sass
-Nodejs
-Mongoose
+1.Angular
+2.Sass
+3.Nodejs
+4.Mongoose
